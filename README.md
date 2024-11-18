@@ -34,14 +34,15 @@ cd snake-q-learning
 
 Install the required libraries as mentioned above.
 
-Usage
+## Usage
 To run the game, execute the following command in your terminal:
 
 ''' bash
 python snake_game.py
+
 The game will start, and the AI agent will begin training over multiple episodes. You can observe the agent's performance as it learns to play the game.
 
-Game Mechanics
+## Game Mechanics
 The snake starts with a length of 3 blocks and moves in a specified direction.
 The goal is to eat the food (red block) to grow the snake and increase the score.
 The game ends if the snake collides with the walls or itself.
