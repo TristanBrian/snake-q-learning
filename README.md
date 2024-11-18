@@ -24,8 +24,9 @@ You can install the required libraries using pip:
 
 ''' bash
 Insert Code
-## pip install pygame numpy
-Installation
+pip install pygame numpy
+
+## Installation
 Clone the repository:
 git clone https://github.com/yourusername/snake-q-learning.git
 
